@@ -28,4 +28,4 @@ Iniciar a aplicação
 yarn start
 ```
 
-Link: https://organizacao-de-rotina.vercel.app/
+Link do deploy: https://organizacao-de-rotina.vercel.app/
