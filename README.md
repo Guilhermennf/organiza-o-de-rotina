@@ -9,7 +9,7 @@ Criar uma pasta para este projeto e clonar o repositório
 ```
 mkdir projeto
 cd projeto
-git clone https://github.com/Guilhermennf/organiza-o-de-rotina.git .
+git clone https://github.com/Guilhermennf/organizacao-de-rotina.git .
 ```
 
 ### Segundo passo
